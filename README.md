@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Horman-Oladushek
--   You can call me Horman
+-    You can call me Horman
 -   
 - 👀 I’m interested in python and playing gitar
 - 
